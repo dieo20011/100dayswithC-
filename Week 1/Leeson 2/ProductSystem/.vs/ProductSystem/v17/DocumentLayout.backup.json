@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Project\\Personal\\100dayswithC-\\Week 1\\Leeson 2\\ProductSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64D15B58-AE15-4591-B2FB-B2F6E065B5C4}|ProductSystem\\ProductSystem.csproj|d:\\project\\personal\\100dayswithc-\\week 1\\leeson 2\\productsystem\\productsystem\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64D15B58-AE15-4591-B2FB-B2F6E065B5C4}|ProductSystem\\ProductSystem.csproj|solutionrelative:productsystem\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{64D15B58-AE15-4591-B2FB-B2F6E065B5C4}|ProductSystem\\ProductSystem.csproj|d:\\project\\personal\\100dayswithc-\\week 1\\leeson 2\\productsystem\\productsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64D15B58-AE15-4591-B2FB-B2F6E065B5C4}|ProductSystem\\ProductSystem.csproj|solutionrelative:productsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D15B58-AE15-4591-B2FB-B2F6E065B5C4}|ProductSystem\\ProductSystem.csproj|d:\\project\\personal\\100dayswithc-\\week 1\\leeson 2\\productsystem\\productsystem\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D15B58-AE15-4591-B2FB-B2F6E065B5C4}|ProductSystem\\ProductSystem.csproj|solutionrelative:productsystem\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,12 +25,8 @@
               "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\Project\\Personal\\100dayswithC-\\Week 1\\Leeson 2\\ProductSystem\\ProductSystem\\Product.cs",
               "RelativeDocumentMoniker": "ProductSystem\\Product.cs",
@@ -43,7 +39,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Project\\Personal\\100dayswithC-\\Week 1\\Leeson 2\\ProductSystem\\ProductSystem\\Program.cs",
               "RelativeDocumentMoniker": "ProductSystem\\Program.cs",
@@ -53,6 +49,10 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-29T05:41:54.676Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

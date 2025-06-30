@@ -18,8 +18,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -43,8 +47,7 @@
               "RelativeToolTip": "Week 1\\Lesson 1\\Animal Mnagement\\Animal Mnagement\\Animal Mnagement.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-29T04:20:27.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-29T04:20:27.461Z"
             },
             {
               "$type": "Bookmark",

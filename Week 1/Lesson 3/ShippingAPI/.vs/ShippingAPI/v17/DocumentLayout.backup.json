@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\Personal\\100dayswithC-\\Week 1\\Lesson 3\\ShippingAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{073FD610-0A03-43A7-A328-DF38B1E693DE}|ShippingAPI\\ShippingAPI.csproj|d:\\project\\personal\\100dayswithc-\\week 1\\lesson 3\\shippingapi\\shippingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073FD610-0A03-43A7-A328-DF38B1E693DE}|ShippingAPI\\ShippingAPI.csproj|solutionrelative:shippingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project\\Personal\\100dayswithC-\\Week 1\\Lesson 3\\ShippingAPI\\ShippingAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ShippingAPI\\Program.cs",
+              "ToolTip": "D:\\Project\\Personal\\100dayswithC-\\Week 1\\Lesson 3\\ShippingAPI\\ShippingAPI\\Program.cs",
+              "RelativeToolTip": "ShippingAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T00:06:18.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
