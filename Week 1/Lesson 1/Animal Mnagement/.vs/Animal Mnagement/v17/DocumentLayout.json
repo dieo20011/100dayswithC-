@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\Personal\\100dayswithC-\\Week 1\\Lesson 1\\Animal Mnagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC49E03F-E38E-44AB-B4EC-FFFB66575E6A}|Animal Mnagement\\Animal Mnagement.csproj|d:\\project\\personal\\100dayswithc-\\week 1\\lesson 1\\animal mnagement\\animal mnagement\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC49E03F-E38E-44AB-B4EC-FFFB66575E6A}|Animal Mnagement\\Animal Mnagement.csproj|solutionrelative:animal mnagement\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC49E03F-E38E-44AB-B4EC-FFFB66575E6A}|Animal Mnagement\\Animal Mnagement.csproj|d:\\project\\personal\\100dayswithc-\\week 1\\lesson 1\\animal mnagement\\animal mnagement\\gendertypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC49E03F-E38E-44AB-B4EC-FFFB66575E6A}|Animal Mnagement\\Animal Mnagement.csproj|solutionrelative:animal mnagement\\gendertypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC49E03F-E38E-44AB-B4EC-FFFB66575E6A}|Animal Mnagement\\Animal Mnagement.csproj|d:\\project\\personal\\100dayswithc-\\week 1\\lesson 1\\animal mnagement\\animal mnagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC49E03F-E38E-44AB-B4EC-FFFB66575E6A}|Animal Mnagement\\Animal Mnagement.csproj|solutionrelative:animal mnagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "D:\\Project\\Personal\\100dayswithC-\\Week 1\\Lesson 1\\Animal Mnagement\\Animal Mnagement\\Animal.cs",
+              "RelativeDocumentMoniker": "Animal Mnagement\\Animal.cs",
+              "ToolTip": "D:\\Project\\Personal\\100dayswithC-\\Week 1\\Lesson 1\\Animal Mnagement\\Animal Mnagement\\Animal.cs",
+              "RelativeToolTip": "Animal Mnagement\\Animal.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T03:25:55.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenderTypeEnum.cs",
+              "DocumentMoniker": "D:\\Project\\Personal\\100dayswithC-\\Week 1\\Lesson 1\\Animal Mnagement\\Animal Mnagement\\GenderTypeEnum.cs",
+              "RelativeDocumentMoniker": "Animal Mnagement\\GenderTypeEnum.cs",
+              "ToolTip": "D:\\Project\\Personal\\100dayswithC-\\Week 1\\Lesson 1\\Animal Mnagement\\Animal Mnagement\\GenderTypeEnum.cs",
+              "RelativeToolTip": "Animal Mnagement\\GenderTypeEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T03:00:20.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project\\Personal\\100dayswithC-\\Week 1\\Lesson 1\\Animal Mnagement\\Animal Mnagement\\Program.cs",
+              "RelativeDocumentMoniker": "Animal Mnagement\\Program.cs",
+              "ToolTip": "D:\\Project\\Personal\\100dayswithC-\\Week 1\\Lesson 1\\Animal Mnagement\\Animal Mnagement\\Program.cs",
+              "RelativeToolTip": "Animal Mnagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T02:57:47.017Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

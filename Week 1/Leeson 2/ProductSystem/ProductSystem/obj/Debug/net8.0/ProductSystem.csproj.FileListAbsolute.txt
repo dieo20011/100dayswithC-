@@ -1,0 +1,15 @@
+D:\Project\Personal\100dayswithC-\Week 1\Leeson 2\ProductSystem\ProductSystem\obj\Debug\net8.0\ProductSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Personal\100dayswithC-\Week 1\Leeson 2\ProductSystem\ProductSystem\obj\Debug\net8.0\ProductSystem.AssemblyInfoInputs.cache
+D:\Project\Personal\100dayswithC-\Week 1\Leeson 2\ProductSystem\ProductSystem\obj\Debug\net8.0\ProductSystem.AssemblyInfo.cs
+D:\Project\Personal\100dayswithC-\Week 1\Leeson 2\ProductSystem\ProductSystem\obj\Debug\net8.0\ProductSystem.csproj.CoreCompileInputs.cache
+D:\Project\Personal\100dayswithC-\Week 1\Leeson 2\ProductSystem\ProductSystem\obj\Debug\net8.0\ProductSystem.sourcelink.json
+D:\Project\Personal\100dayswithC-\Week 1\Leeson 2\ProductSystem\ProductSystem\bin\Debug\net8.0\ProductSystem.exe
+D:\Project\Personal\100dayswithC-\Week 1\Leeson 2\ProductSystem\ProductSystem\bin\Debug\net8.0\ProductSystem.deps.json
+D:\Project\Personal\100dayswithC-\Week 1\Leeson 2\ProductSystem\ProductSystem\bin\Debug\net8.0\ProductSystem.runtimeconfig.json
+D:\Project\Personal\100dayswithC-\Week 1\Leeson 2\ProductSystem\ProductSystem\bin\Debug\net8.0\ProductSystem.dll
+D:\Project\Personal\100dayswithC-\Week 1\Leeson 2\ProductSystem\ProductSystem\bin\Debug\net8.0\ProductSystem.pdb
+D:\Project\Personal\100dayswithC-\Week 1\Leeson 2\ProductSystem\ProductSystem\obj\Debug\net8.0\ProductSystem.dll
+D:\Project\Personal\100dayswithC-\Week 1\Leeson 2\ProductSystem\ProductSystem\obj\Debug\net8.0\refint\ProductSystem.dll
+D:\Project\Personal\100dayswithC-\Week 1\Leeson 2\ProductSystem\ProductSystem\obj\Debug\net8.0\ProductSystem.pdb
+D:\Project\Personal\100dayswithC-\Week 1\Leeson 2\ProductSystem\ProductSystem\obj\Debug\net8.0\ProductSystem.genruntimeconfig.cache
+D:\Project\Personal\100dayswithC-\Week 1\Leeson 2\ProductSystem\ProductSystem\obj\Debug\net8.0\ref\ProductSystem.dll

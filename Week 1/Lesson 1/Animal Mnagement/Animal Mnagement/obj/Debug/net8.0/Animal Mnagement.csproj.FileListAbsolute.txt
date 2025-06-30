@@ -1,0 +1,29 @@
+C:\Users\LuanPham\100days with C#\Lesson 1\Animal Mnagement\Animal Mnagement\bin\Debug\net8.0\Animal Mnagement.exe
+C:\Users\LuanPham\100days with C#\Lesson 1\Animal Mnagement\Animal Mnagement\bin\Debug\net8.0\Animal Mnagement.deps.json
+C:\Users\LuanPham\100days with C#\Lesson 1\Animal Mnagement\Animal Mnagement\bin\Debug\net8.0\Animal Mnagement.runtimeconfig.json
+C:\Users\LuanPham\100days with C#\Lesson 1\Animal Mnagement\Animal Mnagement\bin\Debug\net8.0\Animal Mnagement.dll
+C:\Users\LuanPham\100days with C#\Lesson 1\Animal Mnagement\Animal Mnagement\bin\Debug\net8.0\Animal Mnagement.pdb
+C:\Users\LuanPham\100days with C#\Lesson 1\Animal Mnagement\Animal Mnagement\obj\Debug\net8.0\Animal Mnagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuanPham\100days with C#\Lesson 1\Animal Mnagement\Animal Mnagement\obj\Debug\net8.0\Animal Mnagement.AssemblyInfoInputs.cache
+C:\Users\LuanPham\100days with C#\Lesson 1\Animal Mnagement\Animal Mnagement\obj\Debug\net8.0\Animal Mnagement.AssemblyInfo.cs
+C:\Users\LuanPham\100days with C#\Lesson 1\Animal Mnagement\Animal Mnagement\obj\Debug\net8.0\Animal Mnagement.csproj.CoreCompileInputs.cache
+C:\Users\LuanPham\100days with C#\Lesson 1\Animal Mnagement\Animal Mnagement\obj\Debug\net8.0\Animal Mnagement.dll
+C:\Users\LuanPham\100days with C#\Lesson 1\Animal Mnagement\Animal Mnagement\obj\Debug\net8.0\refint\Animal Mnagement.dll
+C:\Users\LuanPham\100days with C#\Lesson 1\Animal Mnagement\Animal Mnagement\obj\Debug\net8.0\Animal Mnagement.pdb
+C:\Users\LuanPham\100days with C#\Lesson 1\Animal Mnagement\Animal Mnagement\obj\Debug\net8.0\Animal Mnagement.genruntimeconfig.cache
+C:\Users\LuanPham\100days with C#\Lesson 1\Animal Mnagement\Animal Mnagement\obj\Debug\net8.0\ref\Animal Mnagement.dll
+D:\Project\Personal\100dayswithC-\Week 1\Lesson 1\Animal Mnagement\Animal Mnagement\bin\Debug\net8.0\Animal Mnagement.exe
+D:\Project\Personal\100dayswithC-\Week 1\Lesson 1\Animal Mnagement\Animal Mnagement\bin\Debug\net8.0\Animal Mnagement.deps.json
+D:\Project\Personal\100dayswithC-\Week 1\Lesson 1\Animal Mnagement\Animal Mnagement\bin\Debug\net8.0\Animal Mnagement.runtimeconfig.json
+D:\Project\Personal\100dayswithC-\Week 1\Lesson 1\Animal Mnagement\Animal Mnagement\bin\Debug\net8.0\Animal Mnagement.dll
+D:\Project\Personal\100dayswithC-\Week 1\Lesson 1\Animal Mnagement\Animal Mnagement\bin\Debug\net8.0\Animal Mnagement.pdb
+D:\Project\Personal\100dayswithC-\Week 1\Lesson 1\Animal Mnagement\Animal Mnagement\obj\Debug\net8.0\Animal Mnagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Personal\100dayswithC-\Week 1\Lesson 1\Animal Mnagement\Animal Mnagement\obj\Debug\net8.0\Animal Mnagement.AssemblyInfoInputs.cache
+D:\Project\Personal\100dayswithC-\Week 1\Lesson 1\Animal Mnagement\Animal Mnagement\obj\Debug\net8.0\Animal Mnagement.AssemblyInfo.cs
+D:\Project\Personal\100dayswithC-\Week 1\Lesson 1\Animal Mnagement\Animal Mnagement\obj\Debug\net8.0\Animal Mnagement.csproj.CoreCompileInputs.cache
+D:\Project\Personal\100dayswithC-\Week 1\Lesson 1\Animal Mnagement\Animal Mnagement\obj\Debug\net8.0\Animal Mnagement.sourcelink.json
+D:\Project\Personal\100dayswithC-\Week 1\Lesson 1\Animal Mnagement\Animal Mnagement\obj\Debug\net8.0\Animal Mnagement.dll
+D:\Project\Personal\100dayswithC-\Week 1\Lesson 1\Animal Mnagement\Animal Mnagement\obj\Debug\net8.0\refint\Animal Mnagement.dll
+D:\Project\Personal\100dayswithC-\Week 1\Lesson 1\Animal Mnagement\Animal Mnagement\obj\Debug\net8.0\Animal Mnagement.pdb
+D:\Project\Personal\100dayswithC-\Week 1\Lesson 1\Animal Mnagement\Animal Mnagement\obj\Debug\net8.0\Animal Mnagement.genruntimeconfig.cache
+D:\Project\Personal\100dayswithC-\Week 1\Lesson 1\Animal Mnagement\Animal Mnagement\obj\Debug\net8.0\ref\Animal Mnagement.dll
