@@ -28,8 +28,8 @@ namespace ShippingAPI.Controllers
                 Success = true,
                 Data = order,
                 Message = order.Status == OrderStatusEnum.Shipped
-                    ? "Order shipped successfully"
-                    : "Order is processing"
+                    ? "Shipped"
+                    : "Processing"
             };
 
             return Ok(response);

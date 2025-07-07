@@ -9,7 +9,7 @@ public class Order : ICanShip
 
     public bool CanShipTo(string country)
     {
-        return country == "Vietnam";
+        return string.Equals(country, "VietNam", StringComparison.OrdinalIgnoreCase);
     }
 
     public void Ship()

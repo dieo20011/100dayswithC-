@@ -2,14 +2,11 @@
 
 namespace Animal_Mnagement
 {
-    internal class GenderTypeEnum
-    {
-        public enum GenderType
+        public enum EGenderType
         {
             [Description("Male")]
             Male,
             [Description("Female")]
             Female
         }
-    }
 }
