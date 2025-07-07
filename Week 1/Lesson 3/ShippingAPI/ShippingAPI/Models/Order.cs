@@ -11,8 +11,9 @@ namespace ShippingAPI.Models
 
         public bool CanShipTo(string country)
         {
-            return country == "Vietnam";
+            return string.Equals(country, "Vietnam", StringComparison.OrdinalIgnoreCase);
         }
+
 
         public void Ship()
         {
