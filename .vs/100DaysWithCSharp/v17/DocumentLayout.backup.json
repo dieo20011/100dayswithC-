@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LuanPham\\100DaysWithCSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{380FA1B4-0D79-4482-B1AB-47105B8C7CA7}|AnimalsManagement\\AnimalsManagement.csproj|c:\\users\\luanpham\\100dayswithcsharp\\animalsmanagement\\animals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380FA1B4-0D79-4482-B1AB-47105B8C7CA7}|AnimalsManagement\\AnimalsManagement.csproj|solutionrelative:animalsmanagement\\animals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380FA1B4-0D79-4482-B1AB-47105B8C7CA7}|AnimalsManagement\\AnimalsManagement.csproj|c:\\users\\luanpham\\100dayswithcsharp\\animalsmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380FA1B4-0D79-4482-B1AB-47105B8C7CA7}|AnimalsManagement\\AnimalsManagement.csproj|solutionrelative:animalsmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380FA1B4-0D79-4482-B1AB-47105B8C7CA7}|AnimalsManagement\\AnimalsManagement.csproj|c:\\users\\luanpham\\100dayswithcsharp\\animalsmanagement\\egender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380FA1B4-0D79-4482-B1AB-47105B8C7CA7}|AnimalsManagement\\AnimalsManagement.csproj|solutionrelative:animalsmanagement\\egender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Animals.cs",
+              "DocumentMoniker": "C:\\Users\\LuanPham\\100DaysWithCSharp\\AnimalsManagement\\Animals.cs",
+              "RelativeDocumentMoniker": "AnimalsManagement\\Animals.cs",
+              "ToolTip": "C:\\Users\\LuanPham\\100DaysWithCSharp\\AnimalsManagement\\Animals.cs",
+              "RelativeToolTip": "AnimalsManagement\\Animals.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T08:33:06.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EGender.cs",
+              "DocumentMoniker": "C:\\Users\\LuanPham\\100DaysWithCSharp\\AnimalsManagement\\EGender.cs",
+              "RelativeDocumentMoniker": "AnimalsManagement\\EGender.cs",
+              "ToolTip": "C:\\Users\\LuanPham\\100DaysWithCSharp\\AnimalsManagement\\EGender.cs",
+              "RelativeToolTip": "AnimalsManagement\\EGender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T08:33:17.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LuanPham\\100DaysWithCSharp\\AnimalsManagement\\Program.cs",
+              "RelativeDocumentMoniker": "AnimalsManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\LuanPham\\100DaysWithCSharp\\AnimalsManagement\\Program.cs",
+              "RelativeToolTip": "AnimalsManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T08:32:39.449Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
