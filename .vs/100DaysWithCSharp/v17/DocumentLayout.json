@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\LuanPham\\100DaysWithCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LuanPham\\100DaysWithCSharp\\Week1\\AnimalManagement\\obj\\Debug\\net9.0\\AnimalManagement.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Week1\\AnimalManagement\\obj\\Debug\\net9.0\\AnimalManagement.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4253F3AC-6F05-4953-957B-F6822FD91FF4}|Week1\\ProductSystem\\ProductSystem\\ProductSystem.csproj|c:\\users\\luanpham\\100dayswithcsharp\\week1\\productsystem\\productsystem\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4253F3AC-6F05-4953-957B-F6822FD91FF4}|Week1\\ProductSystem\\ProductSystem\\ProductSystem.csproj|solutionrelative:week1\\productsystem\\productsystem\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LuanPham\\100DaysWithCSharp\\Week1\\ProductSystem\\ProductSystem\\EProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Week1\\ProductSystem\\ProductSystem\\EProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4253F3AC-6F05-4953-957B-F6822FD91FF4}|Week1\\ProductSystem\\ProductSystem\\ProductSystem.csproj|c:\\users\\luanpham\\100dayswithcsharp\\week1\\productsystem\\productsystem\\eproducttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4253F3AC-6F05-4953-957B-F6822FD91FF4}|Week1\\ProductSystem\\ProductSystem\\ProductSystem.csproj|solutionrelative:week1\\productsystem\\productsystem\\eproducttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EAEAB16-916A-4FB0-890B-F9C7E944EE00}|Week1\\AnimalManagement\\AnimalManagement.csproj|c:\\users\\luanpham\\100dayswithcsharp\\week1\\animalmanagement\\animals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EAEAB16-916A-4FB0-890B-F9C7E944EE00}|Week1\\AnimalManagement\\AnimalManagement.csproj|solutionrelative:week1\\animalmanagement\\animals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EAEAB16-916A-4FB0-890B-F9C7E944EE00}|Week1\\AnimalManagement\\AnimalManagement.csproj|c:\\users\\luanpham\\100dayswithcsharp\\week1\\animalmanagement\\egender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EAEAB16-916A-4FB0-890B-F9C7E944EE00}|Week1\\AnimalManagement\\AnimalManagement.csproj|solutionrelative:week1\\animalmanagement\\egender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EAEAB16-916A-4FB0-890B-F9C7E944EE00}|Week1\\AnimalManagement\\AnimalManagement.csproj|c:\\users\\luanpham\\100dayswithcsharp\\week1\\animalmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EAEAB16-916A-4FB0-890B-F9C7E944EE00}|Week1\\AnimalManagement\\AnimalManagement.csproj|solutionrelative:week1\\animalmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LuanPham\\100DaysWithCSharp\\Week1\\ProductSystem\\ProductSystem\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Week1\\ProductSystem\\ProductSystem\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4253F3AC-6F05-4953-957B-F6822FD91FF4}|Week1\\ProductSystem\\ProductSystem\\ProductSystem.csproj|c:\\users\\luanpham\\100dayswithcsharp\\week1\\productsystem\\productsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4253F3AC-6F05-4953-957B-F6822FD91FF4}|Week1\\ProductSystem\\ProductSystem\\ProductSystem.csproj|solutionrelative:week1\\productsystem\\productsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,76 +27,41 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AnimalManagement.GlobalUsings.g.cs",
-              "DocumentMoniker": "C:\\Users\\LuanPham\\100DaysWithCSharp\\Week1\\AnimalManagement\\obj\\Debug\\net9.0\\AnimalManagement.GlobalUsings.g.cs",
-              "RelativeDocumentMoniker": "Week1\\AnimalManagement\\obj\\Debug\\net9.0\\AnimalManagement.GlobalUsings.g.cs",
-              "ToolTip": "C:\\Users\\LuanPham\\100DaysWithCSharp\\Week1\\AnimalManagement\\obj\\Debug\\net9.0\\AnimalManagement.GlobalUsings.g.cs",
-              "RelativeToolTip": "Week1\\AnimalManagement\\obj\\Debug\\net9.0\\AnimalManagement.GlobalUsings.g.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\LuanPham\\100DaysWithCSharp\\Week1\\ProductSystem\\ProductSystem\\Product.cs",
+              "RelativeDocumentMoniker": "Week1\\ProductSystem\\ProductSystem\\Product.cs",
+              "ToolTip": "C:\\Users\\LuanPham\\100DaysWithCSharp\\Week1\\ProductSystem\\ProductSystem\\Product.cs",
+              "RelativeToolTip": "Week1\\ProductSystem\\ProductSystem\\Product.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wC4AAAB0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T07:31:39.894Z",
+              "WhenOpened": "2025-07-15T07:43:50.712Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "EProduct.cs",
-              "DocumentMoniker": "C:\\Users\\LuanPham\\100DaysWithCSharp\\Week1\\ProductSystem\\ProductSystem\\EProduct.cs",
-              "RelativeDocumentMoniker": "Week1\\ProductSystem\\ProductSystem\\EProduct.cs",
-              "ToolTip": "C:\\Users\\LuanPham\\100DaysWithCSharp\\Week1\\ProductSystem\\ProductSystem\\EProduct.cs",
-              "RelativeToolTip": "Week1\\ProductSystem\\ProductSystem\\EProduct.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "EProductType.cs",
+              "DocumentMoniker": "C:\\Users\\LuanPham\\100DaysWithCSharp\\Week1\\ProductSystem\\ProductSystem\\EProductType.cs",
+              "RelativeDocumentMoniker": "Week1\\ProductSystem\\ProductSystem\\EProductType.cs",
+              "ToolTip": "C:\\Users\\LuanPham\\100DaysWithCSharp\\Week1\\ProductSystem\\ProductSystem\\EProductType.cs",
+              "RelativeToolTip": "Week1\\ProductSystem\\ProductSystem\\EProductType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T06:14:31.853Z",
+              "WhenOpened": "2025-07-15T07:43:12.403Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LuanPham\\100DaysWithCSharp\\Week1\\ProductSystem\\ProductSystem\\Program.cs",
               "RelativeDocumentMoniker": "Week1\\ProductSystem\\ProductSystem\\Program.cs",
               "ToolTip": "C:\\Users\\LuanPham\\100DaysWithCSharp\\Week1\\ProductSystem\\ProductSystem\\Program.cs",
               "RelativeToolTip": "Week1\\ProductSystem\\ProductSystem\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T06:12:03.349Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Animals.cs",
-              "DocumentMoniker": "C:\\Users\\LuanPham\\100DaysWithCSharp\\Week1\\AnimalManagement\\Animals.cs",
-              "RelativeDocumentMoniker": "Week1\\AnimalManagement\\Animals.cs",
-              "ToolTip": "C:\\Users\\LuanPham\\100DaysWithCSharp\\Week1\\AnimalManagement\\Animals.cs",
-              "RelativeToolTip": "Week1\\AnimalManagement\\Animals.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T03:03:53.238Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EGender.cs",
-              "DocumentMoniker": "C:\\Users\\LuanPham\\100DaysWithCSharp\\Week1\\AnimalManagement\\EGender.cs",
-              "RelativeDocumentMoniker": "Week1\\AnimalManagement\\EGender.cs",
-              "ToolTip": "C:\\Users\\LuanPham\\100DaysWithCSharp\\Week1\\AnimalManagement\\EGender.cs",
-              "RelativeToolTip": "Week1\\AnimalManagement\\EGender.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T02:31:17.474Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LuanPham\\100DaysWithCSharp\\Week1\\AnimalManagement\\Program.cs",
-              "RelativeDocumentMoniker": "Week1\\AnimalManagement\\Program.cs",
-              "ToolTip": "C:\\Users\\LuanPham\\100DaysWithCSharp\\Week1\\AnimalManagement\\Program.cs",
-              "RelativeToolTip": "Week1\\AnimalManagement\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T09:17:14.008Z"
+              "WhenOpened": "2025-07-15T07:42:55.549Z",
+              "EditorCaption": ""
             }
           ]
         }

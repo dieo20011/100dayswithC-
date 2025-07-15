@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace ProductSystem
 {
-    internal class EProduct
+   public enum EProductType
     {
+        Book,
+        Clothing,
+        Electronics,
     }
 }

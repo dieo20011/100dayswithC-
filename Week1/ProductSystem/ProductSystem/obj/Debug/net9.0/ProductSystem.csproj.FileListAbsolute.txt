@@ -1,0 +1,15 @@
+C:\Users\LuanPham\100DaysWithCSharp\Week1\ProductSystem\ProductSystem\bin\Debug\net9.0\ProductSystem.exe
+C:\Users\LuanPham\100DaysWithCSharp\Week1\ProductSystem\ProductSystem\bin\Debug\net9.0\ProductSystem.deps.json
+C:\Users\LuanPham\100DaysWithCSharp\Week1\ProductSystem\ProductSystem\bin\Debug\net9.0\ProductSystem.runtimeconfig.json
+C:\Users\LuanPham\100DaysWithCSharp\Week1\ProductSystem\ProductSystem\bin\Debug\net9.0\ProductSystem.dll
+C:\Users\LuanPham\100DaysWithCSharp\Week1\ProductSystem\ProductSystem\bin\Debug\net9.0\ProductSystem.pdb
+C:\Users\LuanPham\100DaysWithCSharp\Week1\ProductSystem\ProductSystem\obj\Debug\net9.0\ProductSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuanPham\100DaysWithCSharp\Week1\ProductSystem\ProductSystem\obj\Debug\net9.0\ProductSystem.AssemblyInfoInputs.cache
+C:\Users\LuanPham\100DaysWithCSharp\Week1\ProductSystem\ProductSystem\obj\Debug\net9.0\ProductSystem.AssemblyInfo.cs
+C:\Users\LuanPham\100DaysWithCSharp\Week1\ProductSystem\ProductSystem\obj\Debug\net9.0\ProductSystem.csproj.CoreCompileInputs.cache
+C:\Users\LuanPham\100DaysWithCSharp\Week1\ProductSystem\ProductSystem\obj\Debug\net9.0\ProductSystem.sourcelink.json
+C:\Users\LuanPham\100DaysWithCSharp\Week1\ProductSystem\ProductSystem\obj\Debug\net9.0\ProductSystem.dll
+C:\Users\LuanPham\100DaysWithCSharp\Week1\ProductSystem\ProductSystem\obj\Debug\net9.0\refint\ProductSystem.dll
+C:\Users\LuanPham\100DaysWithCSharp\Week1\ProductSystem\ProductSystem\obj\Debug\net9.0\ProductSystem.pdb
+C:\Users\LuanPham\100DaysWithCSharp\Week1\ProductSystem\ProductSystem\obj\Debug\net9.0\ProductSystem.genruntimeconfig.cache
+C:\Users\LuanPham\100DaysWithCSharp\Week1\ProductSystem\ProductSystem\obj\Debug\net9.0\ref\ProductSystem.dll
