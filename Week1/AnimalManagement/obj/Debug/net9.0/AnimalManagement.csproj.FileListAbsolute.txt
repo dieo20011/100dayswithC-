@@ -1,0 +1,15 @@
+C:\Users\LuanPham\100DaysWithCSharp\Week1\AnimalManagement\bin\Debug\net9.0\AnimalManagement.exe
+C:\Users\LuanPham\100DaysWithCSharp\Week1\AnimalManagement\bin\Debug\net9.0\AnimalManagement.deps.json
+C:\Users\LuanPham\100DaysWithCSharp\Week1\AnimalManagement\bin\Debug\net9.0\AnimalManagement.runtimeconfig.json
+C:\Users\LuanPham\100DaysWithCSharp\Week1\AnimalManagement\bin\Debug\net9.0\AnimalManagement.dll
+C:\Users\LuanPham\100DaysWithCSharp\Week1\AnimalManagement\bin\Debug\net9.0\AnimalManagement.pdb
+C:\Users\LuanPham\100DaysWithCSharp\Week1\AnimalManagement\obj\Debug\net9.0\AnimalManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuanPham\100DaysWithCSharp\Week1\AnimalManagement\obj\Debug\net9.0\AnimalManagement.AssemblyInfoInputs.cache
+C:\Users\LuanPham\100DaysWithCSharp\Week1\AnimalManagement\obj\Debug\net9.0\AnimalManagement.AssemblyInfo.cs
+C:\Users\LuanPham\100DaysWithCSharp\Week1\AnimalManagement\obj\Debug\net9.0\AnimalManagement.csproj.CoreCompileInputs.cache
+C:\Users\LuanPham\100DaysWithCSharp\Week1\AnimalManagement\obj\Debug\net9.0\AnimalManagement.sourcelink.json
+C:\Users\LuanPham\100DaysWithCSharp\Week1\AnimalManagement\obj\Debug\net9.0\AnimalManagement.dll
+C:\Users\LuanPham\100DaysWithCSharp\Week1\AnimalManagement\obj\Debug\net9.0\refint\AnimalManagement.dll
+C:\Users\LuanPham\100DaysWithCSharp\Week1\AnimalManagement\obj\Debug\net9.0\AnimalManagement.pdb
+C:\Users\LuanPham\100DaysWithCSharp\Week1\AnimalManagement\obj\Debug\net9.0\AnimalManagement.genruntimeconfig.cache
+C:\Users\LuanPham\100DaysWithCSharp\Week1\AnimalManagement\obj\Debug\net9.0\ref\AnimalManagement.dll

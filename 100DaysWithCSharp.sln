@@ -5,7 +5,7 @@ VisualStudioVersion = 17.14.36301.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week1", "Week1", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalsManagement", "AnimalsManagement\AnimalsManagement.csproj", "{380FA1B4-0D79-4482-B1AB-47105B8C7CA7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalManagement", "Week1\AnimalManagement\AnimalManagement.csproj", "{3EAEAB16-916A-4FB0-890B-F9C7E944EE00}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,16 +13,16 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{380FA1B4-0D79-4482-B1AB-47105B8C7CA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{380FA1B4-0D79-4482-B1AB-47105B8C7CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{380FA1B4-0D79-4482-B1AB-47105B8C7CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{380FA1B4-0D79-4482-B1AB-47105B8C7CA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EAEAB16-916A-4FB0-890B-F9C7E944EE00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EAEAB16-916A-4FB0-890B-F9C7E944EE00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EAEAB16-916A-4FB0-890B-F9C7E944EE00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EAEAB16-916A-4FB0-890B-F9C7E944EE00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{380FA1B4-0D79-4482-B1AB-47105B8C7CA7} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{3EAEAB16-916A-4FB0-890B-F9C7E944EE00} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1BD7A58E-3D60-4933-B145-6FEA32035950}
