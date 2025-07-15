@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\LuanPham\\100DaysWithCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4253F3AC-6F05-4953-957B-F6822FD91FF4}|Week1\\ProductSystem\\ProductSystem\\ProductSystem.csproj|c:\\users\\luanpham\\100dayswithcsharp\\week1\\productsystem\\productsystem\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4253F3AC-6F05-4953-957B-F6822FD91FF4}|Week1\\ProductSystem\\ProductSystem\\ProductSystem.csproj|solutionrelative:week1\\productsystem\\productsystem\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{927FA557-3300-4080-9198-4079B3D02948}|Week1\\ShippingAPI\\ShippingAPI\\ShippingAPI.csproj|c:\\users\\luanpham\\100dayswithcsharp\\week1\\shippingapi\\shippingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927FA557-3300-4080-9198-4079B3D02948}|Week1\\ShippingAPI\\ShippingAPI\\ShippingAPI.csproj|solutionrelative:week1\\shippingapi\\shippingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4253F3AC-6F05-4953-957B-F6822FD91FF4}|Week1\\ProductSystem\\ProductSystem\\ProductSystem.csproj|c:\\users\\luanpham\\100dayswithcsharp\\week1\\productsystem\\productsystem\\eproducttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4253F3AC-6F05-4953-957B-F6822FD91FF4}|Week1\\ProductSystem\\ProductSystem\\ProductSystem.csproj|solutionrelative:week1\\productsystem\\productsystem\\eproducttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{927FA557-3300-4080-9198-4079B3D02948}|Week1\\ShippingAPI\\ShippingAPI\\ShippingAPI.csproj|c:\\users\\luanpham\\100dayswithcsharp\\week1\\shippingapi\\shippingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{927FA557-3300-4080-9198-4079B3D02948}|Week1\\ShippingAPI\\ShippingAPI\\ShippingAPI.csproj|solutionrelative:week1\\shippingapi\\shippingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4253F3AC-6F05-4953-957B-F6822FD91FF4}|Week1\\ProductSystem\\ProductSystem\\ProductSystem.csproj|c:\\users\\luanpham\\100dayswithcsharp\\week1\\productsystem\\productsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4253F3AC-6F05-4953-957B-F6822FD91FF4}|Week1\\ProductSystem\\ProductSystem\\ProductSystem.csproj|solutionrelative:week1\\productsystem\\productsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{927FA557-3300-4080-9198-4079B3D02948}|Week1\\ShippingAPI\\ShippingAPI\\ShippingAPI.csproj|c:\\users\\luanpham\\100dayswithcsharp\\week1\\shippingapi\\shippingapi\\controller\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927FA557-3300-4080-9198-4079B3D02948}|Week1\\ShippingAPI\\ShippingAPI\\ShippingAPI.csproj|solutionrelative:week1\\shippingapi\\shippingapi\\controller\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927FA557-3300-4080-9198-4079B3D02948}|Week1\\ShippingAPI\\ShippingAPI\\ShippingAPI.csproj|c:\\users\\luanpham\\100dayswithcsharp\\week1\\shippingapi\\shippingapi\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927FA557-3300-4080-9198-4079B3D02948}|Week1\\ShippingAPI\\ShippingAPI\\ShippingAPI.csproj|solutionrelative:week1\\shippingapi\\shippingapi\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927FA557-3300-4080-9198-4079B3D02948}|Week1\\ShippingAPI\\ShippingAPI\\ShippingAPI.csproj|c:\\users\\luanpham\\100dayswithcsharp\\week1\\shippingapi\\shippingapi\\icanship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927FA557-3300-4080-9198-4079B3D02948}|Week1\\ShippingAPI\\ShippingAPI\\ShippingAPI.csproj|solutionrelative:week1\\shippingapi\\shippingapi\\icanship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927FA557-3300-4080-9198-4079B3D02948}|Week1\\ShippingAPI\\ShippingAPI\\ShippingAPI.csproj|c:\\users\\luanpham\\100dayswithcsharp\\week1\\shippingapi\\shippingapi\\baseapirespone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927FA557-3300-4080-9198-4079B3D02948}|Week1\\ShippingAPI\\ShippingAPI\\ShippingAPI.csproj|solutionrelative:week1\\shippingapi\\shippingapi\\baseapirespone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927FA557-3300-4080-9198-4079B3D02948}|Week1\\ShippingAPI\\ShippingAPI\\ShippingAPI.csproj|c:\\users\\luanpham\\100dayswithcsharp\\week1\\shippingapi\\shippingapi\\eorderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927FA557-3300-4080-9198-4079B3D02948}|Week1\\ShippingAPI\\ShippingAPI\\ShippingAPI.csproj|solutionrelative:week1\\shippingapi\\shippingapi\\eorderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,41 +43,87 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\LuanPham\\100DaysWithCSharp\\Week1\\ProductSystem\\ProductSystem\\Product.cs",
-              "RelativeDocumentMoniker": "Week1\\ProductSystem\\ProductSystem\\Product.cs",
-              "ToolTip": "C:\\Users\\LuanPham\\100DaysWithCSharp\\Week1\\ProductSystem\\ProductSystem\\Product.cs",
-              "RelativeToolTip": "Week1\\ProductSystem\\ProductSystem\\Product.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA5wC4AAAB0AAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LuanPham\\100DaysWithCSharp\\Week1\\ShippingAPI\\ShippingAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Week1\\ShippingAPI\\ShippingAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\LuanPham\\100DaysWithCSharp\\Week1\\ShippingAPI\\ShippingAPI\\Program.cs",
+              "RelativeToolTip": "Week1\\ShippingAPI\\ShippingAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T07:43:50.712Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EProductType.cs",
-              "DocumentMoniker": "C:\\Users\\LuanPham\\100DaysWithCSharp\\Week1\\ProductSystem\\ProductSystem\\EProductType.cs",
-              "RelativeDocumentMoniker": "Week1\\ProductSystem\\ProductSystem\\EProductType.cs",
-              "ToolTip": "C:\\Users\\LuanPham\\100DaysWithCSharp\\Week1\\ProductSystem\\ProductSystem\\EProductType.cs",
-              "RelativeToolTip": "Week1\\ProductSystem\\ProductSystem\\EProductType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T07:43:12.403Z",
+              "WhenOpened": "2025-07-15T08:05:54.018Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LuanPham\\100DaysWithCSharp\\Week1\\ProductSystem\\ProductSystem\\Program.cs",
-              "RelativeDocumentMoniker": "Week1\\ProductSystem\\ProductSystem\\Program.cs",
-              "ToolTip": "C:\\Users\\LuanPham\\100DaysWithCSharp\\Week1\\ProductSystem\\ProductSystem\\Program.cs",
-              "RelativeToolTip": "Week1\\ProductSystem\\ProductSystem\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAKAAAAAAAAAA==",
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\LuanPham\\100DaysWithCSharp\\Week1\\ShippingAPI\\ShippingAPI\\Controller\\OrderController.cs",
+              "RelativeDocumentMoniker": "Week1\\ShippingAPI\\ShippingAPI\\Controller\\OrderController.cs",
+              "ToolTip": "C:\\Users\\LuanPham\\100DaysWithCSharp\\Week1\\ShippingAPI\\ShippingAPI\\Controller\\OrderController.cs",
+              "RelativeToolTip": "Week1\\ShippingAPI\\ShippingAPI\\Controller\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T07:42:55.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T08:04:28.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LuanPham\\100DaysWithCSharp\\Week1\\ShippingAPI\\ShippingAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Week1\\ShippingAPI\\ShippingAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\LuanPham\\100DaysWithCSharp\\Week1\\ShippingAPI\\ShippingAPI\\appsettings.json",
+              "RelativeToolTip": "Week1\\ShippingAPI\\ShippingAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-15T08:03:44.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\LuanPham\\100DaysWithCSharp\\Week1\\ShippingAPI\\ShippingAPI\\Order.cs",
+              "RelativeDocumentMoniker": "Week1\\ShippingAPI\\ShippingAPI\\Order.cs",
+              "ToolTip": "C:\\Users\\LuanPham\\100DaysWithCSharp\\Week1\\ShippingAPI\\ShippingAPI\\Order.cs",
+              "RelativeToolTip": "Week1\\ShippingAPI\\ShippingAPI\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T08:01:51.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EOrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\LuanPham\\100DaysWithCSharp\\Week1\\ShippingAPI\\ShippingAPI\\EOrderStatus.cs",
+              "RelativeDocumentMoniker": "Week1\\ShippingAPI\\ShippingAPI\\EOrderStatus.cs",
+              "ToolTip": "C:\\Users\\LuanPham\\100DaysWithCSharp\\Week1\\ShippingAPI\\ShippingAPI\\EOrderStatus.cs",
+              "RelativeToolTip": "Week1\\ShippingAPI\\ShippingAPI\\EOrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T08:00:47.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICanShip.cs",
+              "DocumentMoniker": "C:\\Users\\LuanPham\\100DaysWithCSharp\\Week1\\ShippingAPI\\ShippingAPI\\ICanShip.cs",
+              "RelativeDocumentMoniker": "Week1\\ShippingAPI\\ShippingAPI\\ICanShip.cs",
+              "ToolTip": "C:\\Users\\LuanPham\\100DaysWithCSharp\\Week1\\ShippingAPI\\ShippingAPI\\ICanShip.cs",
+              "RelativeToolTip": "Week1\\ShippingAPI\\ShippingAPI\\ICanShip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T08:00:20.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseAPIRespone.cs",
+              "DocumentMoniker": "C:\\Users\\LuanPham\\100DaysWithCSharp\\Week1\\ShippingAPI\\ShippingAPI\\BaseAPIRespone.cs",
+              "RelativeDocumentMoniker": "Week1\\ShippingAPI\\ShippingAPI\\BaseAPIRespone.cs",
+              "ToolTip": "C:\\Users\\LuanPham\\100DaysWithCSharp\\Week1\\ShippingAPI\\ShippingAPI\\BaseAPIRespone.cs",
+              "RelativeToolTip": "Week1\\ShippingAPI\\ShippingAPI\\BaseAPIRespone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T07:58:11.134Z"
             }
           ]
         }

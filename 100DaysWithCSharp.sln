@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalManagement", "Week1\A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductSystem", "Week1\ProductSystem\ProductSystem\ProductSystem.csproj", "{4253F3AC-6F05-4953-957B-F6822FD91FF4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShippingAPI", "Week1\ShippingAPI\ShippingAPI\ShippingAPI.csproj", "{927FA557-3300-4080-9198-4079B3D02948}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{4253F3AC-6F05-4953-957B-F6822FD91FF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4253F3AC-6F05-4953-957B-F6822FD91FF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4253F3AC-6F05-4953-957B-F6822FD91FF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{927FA557-3300-4080-9198-4079B3D02948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{927FA557-3300-4080-9198-4079B3D02948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{927FA557-3300-4080-9198-4079B3D02948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{927FA557-3300-4080-9198-4079B3D02948}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,6 +36,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{3EAEAB16-916A-4FB0-890B-F9C7E944EE00} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{4253F3AC-6F05-4953-957B-F6822FD91FF4} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{927FA557-3300-4080-9198-4079B3D02948} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1BD7A58E-3D60-4933-B145-6FEA32035950}
