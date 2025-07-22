@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LuanPham\\100DaysWithCSharp\\Week1\\ProductSystem\\ProductSystem\\ProductSystem.csproj": {}
+    "C:\\Users\\LuanPham\\100dayswithC-\\Week1\\ProductSystem\\ProductSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LuanPham\\100DaysWithCSharp\\Week1\\ProductSystem\\ProductSystem\\ProductSystem.csproj": {
+    "C:\\Users\\LuanPham\\100dayswithC-\\Week1\\ProductSystem\\ProductSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LuanPham\\100DaysWithCSharp\\Week1\\ProductSystem\\ProductSystem\\ProductSystem.csproj",
+        "projectUniqueName": "C:\\Users\\LuanPham\\100dayswithC-\\Week1\\ProductSystem\\ProductSystem.csproj",
         "projectName": "ProductSystem",
-        "projectPath": "C:\\Users\\LuanPham\\100DaysWithCSharp\\Week1\\ProductSystem\\ProductSystem\\ProductSystem.csproj",
+        "projectPath": "C:\\Users\\LuanPham\\100dayswithC-\\Week1\\ProductSystem\\ProductSystem.csproj",
         "packagesPath": "C:\\Users\\LuanPham\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LuanPham\\100DaysWithCSharp\\Week1\\ProductSystem\\ProductSystem\\obj\\",
+        "outputPath": "C:\\Users\\LuanPham\\100dayswithC-\\Week1\\ProductSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

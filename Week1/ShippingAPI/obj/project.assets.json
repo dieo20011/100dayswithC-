@@ -448,11 +448,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LuanPham\\100DaysWithCSharp\\Week1\\ShippingAPI\\ShippingAPI\\ShippingAPI.csproj",
+      "projectUniqueName": "C:\\Users\\LuanPham\\100dayswithC-\\Week1\\ShippingAPI\\ShippingAPI.csproj",
       "projectName": "ShippingAPI",
-      "projectPath": "C:\\Users\\LuanPham\\100DaysWithCSharp\\Week1\\ShippingAPI\\ShippingAPI\\ShippingAPI.csproj",
+      "projectPath": "C:\\Users\\LuanPham\\100dayswithC-\\Week1\\ShippingAPI\\ShippingAPI.csproj",
       "packagesPath": "C:\\Users\\LuanPham\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LuanPham\\100DaysWithCSharp\\Week1\\ShippingAPI\\ShippingAPI\\obj\\",
+      "outputPath": "C:\\Users\\LuanPham\\100dayswithC-\\Week1\\ShippingAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

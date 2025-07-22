@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WPq0BIcHkns=",
+  "dgSpecHash": "N0Z4CHlTT4E=",
   "success": true,
-  "projectFilePath": "C:\\Users\\LuanPham\\100DaysWithCSharp\\Week1\\ShippingAPI\\ShippingAPI\\ShippingAPI.csproj",
+  "projectFilePath": "C:\\Users\\LuanPham\\100dayswithC-\\Week1\\ShippingAPI\\ShippingAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LuanPham\\.nuget\\packages\\microsoft.extensions.apidescription.server\\9.0.0\\microsoft.extensions.apidescription.server.9.0.0.nupkg.sha512",
     "C:\\Users\\LuanPham\\.nuget\\packages\\microsoft.openapi\\1.6.23\\microsoft.openapi.1.6.23.nupkg.sha512",
