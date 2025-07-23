@@ -1,11 +1,10 @@
-﻿using OrderManagement;
-class Program
+﻿using OrderManagement;class Program
 {
       static void Main(string[] args)
     {
         var product1 = new Product(1, "Laptop", 1500.00m);
         var product2 = new Product(2, "Smartphone", 800.00m);
-
+        var discountPercent = 10; // 10% discount
 
         var order = new Order
         {
@@ -16,6 +15,7 @@ class Program
                 new OrderItem(product2, 2)
             }
         };
-        OrderPrinter.PrintOrderDetails(order);
+        IDiscountPolicy discountPolicy = new PercentageDiscount(discountPercent); // 10% discount
+        OrderPrinter.PrintOrderDetails(order, discountPolicy, discountPercent);
     }
 }
