@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\LuanPham\\100dayswithC-\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B1FA1062-235C-4710-B30D-520D7FBD8561}|Week2\\OrderManagement\\OrderManagement.csproj|c:\\users\\luanpham\\100dayswithc-\\week2\\ordermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1FA1062-235C-4710-B30D-520D7FBD8561}|Week2\\OrderManagement\\OrderManagement.csproj|solutionrelative:week2\\ordermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B1FA1062-235C-4710-B30D-520D7FBD8561}|Week2\\OrderManagement\\OrderManagement.csproj|c:\\users\\luanpham\\100dayswithc-\\week2\\ordermanagement\\orderprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1FA1062-235C-4710-B30D-520D7FBD8561}|Week2\\OrderManagement\\OrderManagement.csproj|solutionrelative:week2\\ordermanagement\\orderprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FA1062-235C-4710-B30D-520D7FBD8561}|Week2\\OrderManagement\\OrderManagement.csproj|c:\\users\\luanpham\\100dayswithc-\\week2\\ordermanagement\\nodiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1FA1062-235C-4710-B30D-520D7FBD8561}|Week2\\OrderManagement\\OrderManagement.csproj|solutionrelative:week2\\ordermanagement\\nodiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FA1062-235C-4710-B30D-520D7FBD8561}|Week2\\OrderManagement\\OrderManagement.csproj|c:\\users\\luanpham\\100dayswithc-\\week2\\ordermanagement\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1FA1062-235C-4710-B30D-520D7FBD8561}|Week2\\OrderManagement\\OrderManagement.csproj|solutionrelative:week2\\ordermanagement\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FA1062-235C-4710-B30D-520D7FBD8561}|Week2\\OrderManagement\\OrderManagement.csproj|c:\\users\\luanpham\\100dayswithc-\\week2\\ordermanagement\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1FA1062-235C-4710-B30D-520D7FBD8561}|Week2\\OrderManagement\\OrderManagement.csproj|solutionrelative:week2\\ordermanagement\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B1FA1062-235C-4710-B30D-520D7FBD8561}|Week2\\OrderManagement\\OrderManagement.csproj|c:\\users\\luanpham\\100dayswithc-\\week2\\ordermanagement\\ordermanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -19,20 +35,8 @@
       "RelativeMoniker": "D:0:0:{B1FA1062-235C-4710-B30D-520D7FBD8561}|Week2\\OrderManagement\\OrderManagement.csproj|solutionrelative:week2\\ordermanagement\\ordercalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1FA1062-235C-4710-B30D-520D7FBD8561}|Week2\\OrderManagement\\OrderManagement.csproj|c:\\users\\luanpham\\100dayswithc-\\week2\\ordermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1FA1062-235C-4710-B30D-520D7FBD8561}|Week2\\OrderManagement\\OrderManagement.csproj|solutionrelative:week2\\ordermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1FA1062-235C-4710-B30D-520D7FBD8561}|Week2\\OrderManagement\\OrderManagement.csproj|c:\\users\\luanpham\\100dayswithc-\\week2\\ordermanagement\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1FA1062-235C-4710-B30D-520D7FBD8561}|Week2\\OrderManagement\\OrderManagement.csproj|solutionrelative:week2\\ordermanagement\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B1FA1062-235C-4710-B30D-520D7FBD8561}|Week2\\OrderManagement\\OrderManagement.csproj|c:\\users\\luanpham\\100dayswithc-\\week2\\ordermanagement\\percentagediscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1FA1062-235C-4710-B30D-520D7FBD8561}|Week2\\OrderManagement\\OrderManagement.csproj|solutionrelative:week2\\ordermanagement\\percentagediscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1FA1062-235C-4710-B30D-520D7FBD8561}|Week2\\OrderManagement\\OrderManagement.csproj|c:\\users\\luanpham\\100dayswithc-\\week2\\ordermanagement\\nodiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1FA1062-235C-4710-B30D-520D7FBD8561}|Week2\\OrderManagement\\OrderManagement.csproj|solutionrelative:week2\\ordermanagement\\nodiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B1FA1062-235C-4710-B30D-520D7FBD8561}|Week2\\OrderManagement\\OrderManagement.csproj|c:\\users\\luanpham\\100dayswithc-\\week2\\ordermanagement\\idiscountpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,36 +54,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LuanPham\\100dayswithC-\\Week2\\OrderManagement\\Program.cs",
-              "RelativeDocumentMoniker": "Week2\\OrderManagement\\Program.cs",
-              "ToolTip": "C:\\Users\\LuanPham\\100dayswithC-\\Week2\\OrderManagement\\Program.cs",
-              "RelativeToolTip": "Week2\\OrderManagement\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\LuanPham\\100dayswithC-\\Week2\\OrderManagement\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Week2\\OrderManagement\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\LuanPham\\100dayswithC-\\Week2\\OrderManagement\\OrderItem.cs",
+              "RelativeToolTip": "Week2\\OrderManagement\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T08:24:32.957Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FixedAmountDiscount.cs",
-              "DocumentMoniker": "C:\\Users\\LuanPham\\100dayswithC-\\Week2\\OrderManagement\\FixedAmountDiscount.cs",
-              "RelativeDocumentMoniker": "Week2\\OrderManagement\\FixedAmountDiscount.cs",
-              "ToolTip": "C:\\Users\\LuanPham\\100dayswithC-\\Week2\\OrderManagement\\FixedAmountDiscount.cs",
-              "RelativeToolTip": "Week2\\OrderManagement\\FixedAmountDiscount.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T08:17:20.991Z",
+              "WhenOpened": "2025-07-24T08:07:33.32Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "PercentageDiscount.cs",
               "DocumentMoniker": "C:\\Users\\LuanPham\\100dayswithC-\\Week2\\OrderManagement\\PercentageDiscount.cs",
               "RelativeDocumentMoniker": "Week2\\OrderManagement\\PercentageDiscount.cs",
@@ -91,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "NoDiscount.cs",
               "DocumentMoniker": "C:\\Users\\LuanPham\\100dayswithC-\\Week2\\OrderManagement\\NoDiscount.cs",
               "RelativeDocumentMoniker": "Week2\\OrderManagement\\NoDiscount.cs",
@@ -99,11 +91,12 @@
               "RelativeToolTip": "Week2\\OrderManagement\\NoDiscount.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T07:27:05.338Z"
+              "WhenOpened": "2025-07-23T07:27:05.338Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "IDiscountPolicy.cs",
               "DocumentMoniker": "C:\\Users\\LuanPham\\100dayswithC-\\Week2\\OrderManagement\\IDiscountPolicy.cs",
               "RelativeDocumentMoniker": "Week2\\OrderManagement\\IDiscountPolicy.cs",
@@ -115,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "OrderManagement.csproj",
               "DocumentMoniker": "C:\\Users\\LuanPham\\100dayswithC-\\Week2\\OrderManagement\\OrderManagement.csproj",
               "RelativeDocumentMoniker": "Week2\\OrderManagement\\OrderManagement.csproj",
@@ -123,25 +116,24 @@
               "RelativeToolTip": "Week2\\OrderManagement\\OrderManagement.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-23T04:24:50.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T04:24:50.101Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "OrderPrinter.cs",
               "DocumentMoniker": "C:\\Users\\LuanPham\\100dayswithC-\\Week2\\OrderManagement\\OrderPrinter.cs",
               "RelativeDocumentMoniker": "Week2\\OrderManagement\\OrderPrinter.cs",
               "ToolTip": "C:\\Users\\LuanPham\\100dayswithC-\\Week2\\OrderManagement\\OrderPrinter.cs",
               "RelativeToolTip": "Week2\\OrderManagement\\OrderPrinter.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-22T09:55:51.092Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\LuanPham\\100dayswithC-\\Week2\\OrderManagement\\Product.cs",
               "RelativeDocumentMoniker": "Week2\\OrderManagement\\Product.cs",
@@ -153,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "OrderCalculator.cs",
               "DocumentMoniker": "C:\\Users\\LuanPham\\100dayswithC-\\Week2\\OrderManagement\\OrderCalculator.cs",
               "RelativeDocumentMoniker": "Week2\\OrderManagement\\OrderCalculator.cs",
@@ -161,12 +153,11 @@
               "RelativeToolTip": "Week2\\OrderManagement\\OrderCalculator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T09:54:46.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-22T09:54:46.534Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\LuanPham\\100dayswithC-\\Week2\\OrderManagement\\Order.cs",
               "RelativeDocumentMoniker": "Week2\\OrderManagement\\Order.cs",
@@ -174,7 +165,33 @@
               "RelativeToolTip": "Week2\\OrderManagement\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T09:54:42.038Z"
+              "WhenOpened": "2025-07-22T09:54:42.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LuanPham\\100dayswithC-\\Week2\\OrderManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Week2\\OrderManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\LuanPham\\100dayswithC-\\Week2\\OrderManagement\\Program.cs",
+              "RelativeToolTip": "Week2\\OrderManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T08:24:32.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FixedAmountDiscount.cs",
+              "DocumentMoniker": "C:\\Users\\LuanPham\\100dayswithC-\\Week2\\OrderManagement\\FixedAmountDiscount.cs",
+              "RelativeDocumentMoniker": "Week2\\OrderManagement\\FixedAmountDiscount.cs",
+              "ToolTip": "C:\\Users\\LuanPham\\100dayswithC-\\Week2\\OrderManagement\\FixedAmountDiscount.cs",
+              "RelativeToolTip": "Week2\\OrderManagement\\FixedAmountDiscount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T08:17:20.991Z"
             }
           ]
         }
