@@ -18,9 +18,13 @@ namespace OrderManagement
                 Console.WriteLine($"Product: {item.Product.Name}, Quantity: {item.Quantity}, Unit Price: {item.Product.Price:C}, Total: {item.getTotalPrice():C}");
             }
 
-            decimal total = OrderCalculator.CalculateTotalPrice(order, discountPolicy);
+            decimal total = order.Items.Sum(item => item.getTotalPrice());
+            decimal totalAfterDiscount = OrderCalculator.CalculateTotalPrice(order, discountPolicy);
+            decimal discountAmount = order.Items.Sum(item => item.getTotalPrice()) - totalAfterDiscount;
+            Console.WriteLine($"Total Before Discount: {total:C}");
             Console.WriteLine($"Discount Percents: {discountPercent} %");
-            Console.WriteLine($"Total Amount: {total:C}");
+            Console.WriteLine($"Total Discount: {discountAmount:C}");
+            Console.WriteLine($"Total Amount: {totalAfterDiscount:C}");
             Console.WriteLine("=========================");
         }
     }
