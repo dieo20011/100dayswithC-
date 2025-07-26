@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LuanPham\\100dayswithC-\\Week2\\OrderManagement\\OrderManagement.csproj": {}
+    "C:\\Users\\Luan\\Source\\Repos\\100dayswithC-\\Week2\\OrderManagement\\OrderManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LuanPham\\100dayswithC-\\Week2\\OrderManagement\\OrderManagement.csproj": {
+    "C:\\Users\\Luan\\Source\\Repos\\100dayswithC-\\Week2\\OrderManagement\\OrderManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LuanPham\\100dayswithC-\\Week2\\OrderManagement\\OrderManagement.csproj",
+        "projectUniqueName": "C:\\Users\\Luan\\Source\\Repos\\100dayswithC-\\Week2\\OrderManagement\\OrderManagement.csproj",
         "projectName": "OrderManagement",
-        "projectPath": "C:\\Users\\LuanPham\\100dayswithC-\\Week2\\OrderManagement\\OrderManagement.csproj",
-        "packagesPath": "C:\\Users\\LuanPham\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LuanPham\\100dayswithC-\\Week2\\OrderManagement\\obj\\",
+        "projectPath": "C:\\Users\\Luan\\Source\\Repos\\100dayswithC-\\Week2\\OrderManagement\\OrderManagement.csproj",
+        "packagesPath": "C:\\Users\\Luan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Luan\\Source\\Repos\\100dayswithC-\\Week2\\OrderManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\LuanPham\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Luan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
